@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         HOLA BEA!!!!
+         Esta es la APP de Ruben con CI/CD en docker+travis+AWS
         </p>
         <a
           className="App-link"
